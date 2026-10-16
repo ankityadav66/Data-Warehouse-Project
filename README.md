@@ -83,7 +83,7 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Ankit Yadav**. I’m a recent graduate from Rennes School of Business with a masters in data and business analytics with hands-on experience in Data Engineering, Data and Business Analytics.
+Hi there! I'm **Ankit Yadav**. I’m a recent graduate from Rennes School of Business with a masters in data and business analytics with hands-on experience in Data Engineering, Data & Business Analytics.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
